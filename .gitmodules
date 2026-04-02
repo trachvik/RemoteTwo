@@ -1,0 +1,3 @@
+[submodule "remotetwo-gateway"]
+	path = remotetwo-gateway
+	url = https://github.com/trachvik/remotetwo-gateway.git
