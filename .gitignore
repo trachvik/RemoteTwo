@@ -1,0 +1,12 @@
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### vscode ###
+.vscode/
+.history/
+*.code-workspace
+
+### trash ###
+*.tmp

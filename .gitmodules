@@ -1,3 +1,6 @@
 [submodule "remotetwo-gateway"]
 	path = remotetwo-gateway
 	url = https://github.com/trachvik/remotetwo-gateway.git
+[submodule "remotetwo-fw"]
+	path = remotetwo-fw
+	url = https://github.com/trachvik/remotetwo-fw.git
